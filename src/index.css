@@ -4,8 +4,8 @@ body {
 .card{
   width: 600;
   height: 300;
-  background-color: blueviolet;
-  color: antiquewhite;
+  background-color: rgb(195, 149, 237);
+  color: rgb(168, 127, 156);
   padding: 2rem;
   text-align: center;
 
